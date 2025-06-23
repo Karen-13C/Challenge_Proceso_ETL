@@ -21,3 +21,4 @@
 - `PaymentMethod`: forma de pago
 - `Charges.Monthly`: total de todos los servicios del cliente por mes
 - `Charges.Total`: total gastado por el cliente
+- `Cuentas_diarias`: Utiliza la Charges.Monthly para calcular el valor diario (tomando meses de 30 días)
