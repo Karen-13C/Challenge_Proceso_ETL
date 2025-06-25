@@ -67,13 +67,13 @@ Basado en este análisis, se proponen las siguientes recomendaciones estratégic
 Implementar un análisis de mercado y establecer mecanismos continuos para recopilar reseñas y feedback de los clientes. Esto ayudará a comprender mejor las expectativas de los diferentes segmentos de clientes y a identificar oportunidades para la mejora del servicio.
 
 ## Tecnologías/Herramientas utilizadas
-[Python en Jupyter Notebooks]
-[Librerías de análisis de datos, Pandas, NumPy]
-[Librerías de visualización, Matplotlib, Seaborn]
+[Python en Jupyter Notebooks] \
+[Librerías de análisis de datos, Pandas, NumPy] \
+[Librerías de visualización, Matplotlib, Seaborn] \
 
 ## Estructura del repositorio
-.
-├── Challenge_telecom.ipynb    <- Cuaderno Jupyter con el análisis principal (incluye ETL, análisis y visualizaciones)
-├── README.md                  <- Este archivo
-├── TelecomX_Data.json         <- Archivo de datos en formato JSON utilizado para el análisis
+. \
+├── Challenge_telecom.ipynb    <- Cuaderno Jupyter con el análisis principal (incluye ETL, análisis y visualizaciones) \
+├── README.md                  <- Este archivo \
+├── TelecomX_Data.json         <- Archivo de datos en formato JSON utilizado para el análisis \
 └── TelecomX_diccionario.md    <- Diccionario de datos o archivo de metadatos de las columnas
